@@ -15,7 +15,7 @@ A função StrTran() substitui texto dentro de strings:
 
 @type User Function
 @author Felipi Marques
-@since 21/01/2026
+@since 30/11/2025
 
 @obs StrTran(cTexto, cBusca, cSubstitui)
 @obs Troca TODAS as ocorrências de cBusca por cSubstitui

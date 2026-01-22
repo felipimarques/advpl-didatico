@@ -19,7 +19,7 @@ Uso comum:
 
 @type User Function
 @author Felipi Marques
-@since 21/01/2026
+@since 27/11/2025
 
 @obs Left(c, n) = Pega N caracteres da ESQUERDA
 @obs Right(c, n) = Pega N caracteres da DIREITA

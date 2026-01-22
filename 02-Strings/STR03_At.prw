@@ -14,7 +14,7 @@ A função At() encontra a posição de um texto dentro de outro. É essencial para:
 
 @type User Function
 @author Felipi Marques
-@since 21/01/2026
+@since 12/11/2025
 
 @obs At(cBusca, cTexto) retorna a posição onde cBusca aparece em cTexto
 @obs Retorna 0 (zero) se não encontrar

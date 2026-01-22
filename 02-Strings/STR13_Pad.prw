@@ -14,7 +14,7 @@ Muito usado em relatórios e layouts fixos!
 
 @type User Function
 @author Felipi Marques
-@since 21/01/2026
+@since 21/12/2025
 
 @obs PadL(cTexto, nTamanho, cCaractere)
 @obs PadR(cTexto, nTamanho, cCaractere)

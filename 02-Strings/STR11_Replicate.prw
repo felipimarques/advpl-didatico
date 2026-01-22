@@ -15,7 +15,7 @@ A função Replicate() repete um caractere N vezes:
 
 @type User Function
 @author Felipi Marques
-@since 21/01/2026
+@since 14/12/2025
 
 @obs Replicate(cCaractere, nQuantidade)
 

@@ -15,7 +15,7 @@ A função Space() gera espaços em branco:
 
 @type User Function
 @author Felipi Marques
-@since 21/01/2026
+@since 17/12/2025
 
 @obs Space(nQuantidade)
 

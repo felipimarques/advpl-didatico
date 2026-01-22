@@ -15,7 +15,7 @@ As funções de conversão de maiúsculas/minúsculas são essenciais para:
 
 @type User Function
 @author Felipi Marques
-@since 21/01/2026
+@since 20/11/2025
 
 @obs Upper(c) = Converte para MAIÚSCULAS
 @obs Lower(c) = Converte para minúsculas

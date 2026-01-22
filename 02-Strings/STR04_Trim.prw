@@ -15,7 +15,7 @@ As funções de Trim removem espaços em branco e são cruciais para:
 
 @type User Function
 @author Felipi Marques
-@since 21/01/2026
+@since 16/11/2025
 
 @obs AllTrim(c) = Remove espaços à esquerda E à direita
 @obs LTrim(c) = Remove espaços à esquerda (Left)

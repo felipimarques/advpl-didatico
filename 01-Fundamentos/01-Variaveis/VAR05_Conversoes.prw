@@ -15,7 +15,7 @@ Funções de conversão:
 
 @type User Function
 @author Felipi Marques
-@since 21/01/2026
+@since 03/12/2025
 
 @example
 U_VAR05()

@@ -19,7 +19,7 @@ Retornam .T. (verdadeiro) ou .F. (falso)
 
 @type User Function
 @author Felipi Marques
-@since 21/01/2026
+@since 13/11/2025
 
 @example
 U_OP02()

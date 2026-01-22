@@ -15,7 +15,7 @@ A função Stuff() insere ou substitui texto em posição específica:
 
 @type User Function
 @author Felipi Marques
-@since 21/01/2026
+@since 06/12/2025
 
 @obs Stuff(cTexto, nInicio, nQuantidade, cInserir)
 @obs nInicio = posição onde vai inserir/substituir

@@ -15,7 +15,7 @@ Funções para dividir strings:
 
 @type User Function
 @author Felipi Marques
-@since 21/01/2026
+@since 10/12/2025
 
 @obs StrTokArr(cTexto, cDelimitador)
 @obs StrTok2(cTexto, cDelimitador, lProcessa)

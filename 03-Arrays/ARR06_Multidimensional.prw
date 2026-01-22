@@ -15,7 +15,7 @@ Tópicos abordados:
 
 @type User Function
 @author Felipi Marques
-@since 21/01/2026
+@since 15/01/2026
 
 @example
 U_ARR06()

@@ -15,7 +15,7 @@ A função Len() retorna o tamanho (comprimento) de strings e é fundamental para:
 
 @type User Function
 @author Felipi Marques
-@since 21/01/2026
+@since 23/11/2025
 
 @obs Len(c) = Retorna quantidade de caracteres
 @obs Len(a) = Retorna quantidade de elementos de array

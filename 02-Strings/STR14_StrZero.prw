@@ -15,7 +15,7 @@ StrZero() converte número em string preenchida com zeros:
 
 @type User Function
 @author Felipi Marques
-@since 21/01/2026
+@since 27/12/2025
 
 @obs StrZero(nNumero, nTamanho, nDecimais)
 

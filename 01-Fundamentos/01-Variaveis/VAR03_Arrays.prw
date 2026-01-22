@@ -14,7 +14,7 @@ Arrays são listas que podem conter qualquer tipo:
 
 @type User Function
 @author Felipi Marques
-@since 21/01/2026
+@since 18/11/2025
 
 @example
 U_VAR03()

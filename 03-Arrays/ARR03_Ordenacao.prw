@@ -14,7 +14,7 @@ Função abordada:
 
 @type User Function
 @author Felipi Marques
-@since 21/01/2026
+@since 11/01/2026
 
 @example
 U_ARR03()

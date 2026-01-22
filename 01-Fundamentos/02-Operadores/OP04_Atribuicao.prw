@@ -17,7 +17,7 @@ Operadores de atribuição:
 
 @type User Function
 @author Felipi Marques
-@since 21/01/2026
+@since 26/11/2025
 
 @example
 U_OP04()
